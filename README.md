@@ -1,7 +1,7 @@
 # Battle of the Books
 
 ## About
-Battle of the Books is a school competition primarily for grades 4 to 6 to promote reading. Students form teams and read a selection of 10 books to compete in a series of head to head quizes. The competition culinates in a series of playoff and ultimately a championship match.
+Battle of the Books is a school competition primarily for grades 4 to 6 to promote reading. Students form teams and read a selection of 10 books to compete in a series of head to head quizzes. The competition culminates in a series of playoffs and ultimately a championship match.
 
 ##Books
 Typically a selection of 10 young adult books is used for the competition. Each student is not expected to read all ten books but the team collectively should. Team members are encouraged to read 3 books to ensure there is some overlap in knowledge. 
