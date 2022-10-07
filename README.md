@@ -35,6 +35,7 @@ We have created a Google Sheets Template that helps to keep track of
 - Promotion
 - Equipment
   - Buzzers
+	  -	[BuzzIn.live] (https://buzzin.live)
   - Zoom
   - Microphones and Speaks
   - Cameras
